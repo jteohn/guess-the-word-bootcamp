@@ -17,3 +17,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.progressbar {
+  width: 360px;
+  height: 50px;
+}
